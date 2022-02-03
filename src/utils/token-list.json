@@ -1,0 +1,100 @@
+{
+  "mainnet-beta": [
+    {
+      "symbol": "MILK",
+      "address": "CCKDRAd4Xwjoovtf2s1duu3d4TPTmFRyh1hfrb3ZUGR2",
+      "name": "Tiddy Juice Coin",
+      "icon": "https://arweave.net/S71DNASA5TYlrK9giRy7QgqFNw1m4mxqY6OdtgY1E7k"
+    },
+    {
+      "symbol": "PONQUE",
+      "address": "FZBNaVMz5n1EcKfno8Jgsa2go5GLUwBYVpGPvKAdzNth",
+      "name": "Ponque",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZBNaVMz5n1EcKfno8Jgsa2go5GLUwBYVpGPvKAdzNth/logo.png"
+    },
+    {
+      "symbol": "CHEESE",
+      "address": "3Cm1DDX9K9emkjjHoJJKXwwcDpREGxRzLyNgMSCy49zB",
+      "name": "Cheese",
+      "icon": "https://assets.solmice.com/file/solmice/cheese/images/757105.png"
+    },
+    {
+      "symbol": "SCUM",
+      "address": "cqNTpypmbwghrf1G9VGvSENcw7M7wGSQ7JS8UTQWXwb",
+      "name": "Solana Cum",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cqNTpypmbwghrf1G9VGvSENcw7M7wGSQ7JS8UTQWXwb/logo.png"
+    },
+    {
+      "symbol": "SBOOBS",
+      "name": "Solana Boobs",
+      "address": "4evENxfLeUDk24nrqzMp4gkR3kPxCMeQuCeftjgd66BD",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4evENxfLeUDk24nrqzMp4gkR3kPxCMeQuCeftjgd66BD/logo.jpg"
+    },
+    {
+      "symbol": "WOOF",
+      "name": "WOOF",
+      "address": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE/logo.png"
+    },
+    {
+      "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+      "symbol": "SAMO",
+      "name": "Samoyed Coin",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png"
+    },
+    {
+      "address": "FRbqQnbuLoMbUG4gtQMeULgCDHyY6YWF9NRUuLa98qmq",
+      "symbol": "ECOP",
+      "name": "EcoPoo",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRbqQnbuLoMbUG4gtQMeULgCDHyY6YWF9NRUuLa98qmq/logo.png"
+    }
+  ],
+  "testnet": [
+    {
+      "tokenSymbol": "SOL",
+      "mintAddress": "So11111111111111111111111111111111111111112",
+      "tokenName": "Solana",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png"
+    },
+    {
+      "tokenSymbol": "ABC",
+      "mintAddress": "D4fdoY5d2Bn1Cmjqy6J6shRHjcs7QNuBPzwEzTLrf7jm",
+      "tokenName": "ABC Test",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
+    }
+  ],
+  "devnet": [
+    {
+      "tokenSymbol": "SOL",
+      "mintAddress": "So11111111111111111111111111111111111111112",
+      "tokenName": "Solana",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png"
+    },
+    {
+      "tokenSymbol": "XYZ",
+      "mintAddress": "DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw",
+      "tokenName": "XYZ Test",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/08d734b5e6ec95227dc50efef3a9cdfea4c398a1/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    },
+    {
+      "tokenSymbol": "ABC",
+      "mintAddress": "6z83b76xbSm5UhdG33ePh7QCbLS8YaXCQ9up86tDTCUH",
+      "tokenName": "ABC Test",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/08d734b5e6ec95227dc50efef3a9cdfea4c398a1/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    },
+    {
+      "tokenSymbol": "DEF",
+      "mintAddress": "3pyeDv6AV1RQuA6KzsqkZrpsNn4b3hooHrQhGs7K2TYa",
+      "tokenName": "DEF Test",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/08d734b5e6ec95227dc50efef3a9cdfea4c398a1/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    }
+  ],
+  "localnet": [
+    {
+      "tokenSymbol": "SOL",
+      "mintAddress": "So11111111111111111111111111111111111111112",
+      "tokenName": "Solana",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png"
+    }
+  ]
+}
